@@ -7,13 +7,13 @@ command to run python test.py
 dockerfile is added
 I have created a github actions cicd pipline 
 
-[ to view the piplein ]
+[ to view the pipleine ]
 
  
 Go to .github/workflows.
 read file = python-app.yml
 
-[To see the build logs]
+[To view the build logs]
 
 Select the actions tab 
 Select the [added betafile] task
